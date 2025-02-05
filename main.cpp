@@ -47,4 +47,6 @@ int main(int argc, char** argv){
 
     std::cout << counter << '\n';
     return 0;
+
+    //result: 6151600000
 }
