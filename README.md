@@ -1,1 +1,1 @@
-Calculates all possible combinations of digits and uppercase letters.
+Calculates all possible combinations of digits and uppercase letters via recursion.
